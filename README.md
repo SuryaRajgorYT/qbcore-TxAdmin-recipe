@@ -1,4 +1,4 @@
-# qbcore-recipe
+# QBcore-TxAdmin-recipe
 
 **Basic TxAdmin deployment recipe for QBCore.**
 
